@@ -1,0 +1,69 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/bg-mustafa.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: scroll;
+    padding: 0;
+    margin: 0;
+    overflow: auto;
+}
+
+.elegantshd {
+    letter-spacing: .1em;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+  }
+
+  .about-me{
+      width: 100%;
+      height: auto;
+      background-color: whitesmoke;
+      opacity: 0.7;
+      padding: 2rem 0;
+  }
+
+
+
+  .skils{
+      width: 100%;
+      height: auto;
+      background-color: orange;
+      opacity: 0.7;
+  }
+
+
+  .hightlight{
+      color: #696969;
+      padding: 1rem 0;
+      background-color: white;
+  }
+
+  .cardM{
+      margin: 0 auto;
+  }
+
+  .page-section {
+    padding: 8rem 0;
+    background-color: orange;
+}
+
+.page-section h2{
+    color: white;
+}
+
+
+
+footer.footer {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.formStyle{
+    background-color: white;
+    
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+   
+}
