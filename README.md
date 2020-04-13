@@ -13,5 +13,5 @@
 
 
 ### Link
-https://tripoint.herokuapp.com/
+https://mustafakhairalla.github.io/my-portfolio/
 
